@@ -17,7 +17,7 @@ public class signup {
 	public void sig()
 	{
 		Stage signup= new Main().getstage();
-		signup.setTitle("Login");
+		signup.setTitle("Signup");
 		Insets pad = new Insets(10,10,10,10);
 		 BorderPane mn = new BorderPane();
          mn.setPadding(pad);
